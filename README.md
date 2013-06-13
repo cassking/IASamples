@@ -1,7 +1,7 @@
 IASamples
 =========
 
-Some samples of my Information Architecture work, including schematics and wireframes
+Some samples of my Information Architecture work, including schematics and wireframes from the old version of the site. These were created using Adobe Illustrator, years 2002-2003
 
 Notes:
 --------------------
